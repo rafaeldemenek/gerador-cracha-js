@@ -1,3 +1,1 @@
-# gerador-cracha-js
-O objetivo desse projeto é de fazer um sistema para que alunos possam se cadastrar.
-espero que goste :]
+O objetivo do nosso projeto foi criar um crachá virtual usando JavaScript. Para fazer isso, primeiro pegamos algumas informações do usuário, como nome, sobrenome e ano de nascimento. Depois, usamos o código para calcular a idade, colocar o sobrenome em letras maiúsculas e contar quantas letras tem o primeiro nome. No final, juntamos todas essas informações e mostramos o resultado no console de uma forma organizada.
