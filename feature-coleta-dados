@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Cadastro</title>
+</head>
+<body>
+
+  <script>
+    // Três dados em variáveis separadas
+    let nome = prompt("Qual é o seu nome?");
+    let sobrenome = prompt("Qual é o seu sobrenome?");
+    let anoNascimento = prompt("Em que ano você nasceu?");
+
+    // confirm() devolve true (OK) ou false (Cancelar)
+    let alunoAtivo = confirm("É aluno ativo da instituição?");
+  </script>
+</body>
+</html>
