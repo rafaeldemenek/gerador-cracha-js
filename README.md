@@ -1,2 +1,3 @@
 # gerador-cracha-js
-O nosso projeto tem como objetivo de criar uma forma de estudantes se cadastrarem no sistema :]
+O objetivo desse projeto é de fazer um sistema para que alunos possam se cadastrar.
+espero que goste :]
